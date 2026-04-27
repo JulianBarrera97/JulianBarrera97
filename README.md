@@ -1,5 +1,15 @@
-## Hi there 👋
+## Buenas, mi nombre es Julian Barrera 
 
+Estudiante de Ingenieria de Sistemas y Computo (UNAL)
+
+## Lenguajes 
+
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+
+## Bases de datos 
+
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 <!--
 **JulianBarrera97/JulianBarrera97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
